@@ -1,8 +1,8 @@
-## AI discrimination
+# AI discrimination
 List of research publications and books that address based/discriminating AI algorithms.\
 Feel free to contact me if you wish to add to this list. 
 
-# AI & Healthcare:
+## AI & Healthcare:
 Health & Data:\
 https://datasociety.net/research/health-and-data/
 
@@ -12,7 +12,7 @@ Artificial intelligence and algorithmic bias: implications for health systems\
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6875681/pdf/jogh-09-020318.pdf
 
 
-# Books with general overview:
+## Books with general overview:
 
 Weapons of mass destruction:\
 https://weaponsofmathdestructionbook.com/
@@ -29,7 +29,7 @@ https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-survei
 Race After Technology:\
 https://www.aaihs.org/race-after-technology/
 
-# Organizations that do research on the applications of AI:
+## Organizations that do research on the applications of AI:
 
 AI 4 all:\
 https://ai-4-all.org/
@@ -56,7 +56,7 @@ Our world in data: \
 https://ourworldindata.org/
 
 
-# Interesting Articles:
+## Interesting Articles:
 AI-Related Lawsuits Are Coming:\
 https://www.shrm.org/resourcesandtools/hr-topics/technology/pages/ai-lawsuits-are-coming.aspx
 
