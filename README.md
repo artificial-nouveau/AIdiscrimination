@@ -43,6 +43,9 @@ https://blackinai.github.io/
 Data & Society (US) : \
 https://datasociety.net/research/
 
+Feminist AI (US): \
+https://www.feminist.ai/work
+
 Pew Research (US) : \
 https://www.pewresearch.org/
 
