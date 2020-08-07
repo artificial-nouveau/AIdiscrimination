@@ -2,7 +2,7 @@
 List of research publications and books that address based/discriminating AI algorithms.\
 Feel free to contact me if you wish to add to this list. 
 
-# AI & Healthcare:\
+# AI & Healthcare:
 Health & Data:\
 https://datasociety.net/research/health-and-data/
 
